@@ -24,7 +24,7 @@ This repository contains the base for a simple yet effective portfolio website. 
 1. **Fork the Repository**: Click on the 'Fork' button at the top right corner of this page.
 2. **Clone Your Forked Repository**: Open your terminal and run:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/portfolio-workshop.git
+    git clone https://github.com/YOUR_USERNAME/portfolio-2023.git
     ```
 3. **Navigate into the Directory**: 
     ```bash
@@ -57,7 +57,7 @@ This is a workshop, so we encourage everyone to participate and contribute. If y
 
 ## Feedback 💌
 
-Loved it? Think something could be better? [Open a new issue](https://github.com/ORIGINAL_OWNER/portfolio-workshop/issues/new) and let's chat! 
+Loved it? Think something could be better? [Open a new issue](https://github.com/morganfula/workshop-portofolio-2023/issues/new) and let's chat! 
 
 ## Acknowledgements 🙏
 
