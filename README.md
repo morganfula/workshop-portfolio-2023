@@ -1,5 +1,7 @@
 # Building Your Own Portfolio Workshop 🚀
 
+Lecture Link [Click here]('https://run.wunderpresentation.com/64170cd762008ff1ea0f1606#0,0')
+
 Welcome, junior full-stack devs and junior data analysts, to this hands-on workshop! By the end, you'll have your very own portfolio website ready to showcase your skills and projects. 🌟
 
 ## Table of Contents 📖
