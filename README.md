@@ -26,7 +26,7 @@ This repository contains the base for a simple yet effective portfolio website. 
     ```
 3. **Navigate into the Directory**: 
     ```bash
-    cd portfolio-workshop
+    cd portfolio-2023
     ```
 4. **Install Dependencies** (Make sure you have Node.js and npm installed):
     ```bash
