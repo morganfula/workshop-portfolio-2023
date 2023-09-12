@@ -24,11 +24,11 @@ This repository contains the base for a simple yet effective portfolio website. 
 1. **Fork the Repository**: Click on the 'Fork' button at the top right corner of this page.
 2. **Clone Your Forked Repository**: Open your terminal and run:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/portfolio-2023.git
+    git clone https://github.com/YOUR_USERNAME/workshop-portofolio-2023.git
     ```
 3. **Navigate into the Directory**: 
     ```bash
-    cd portfolio-2023
+    cd workshop-portofolio-2023
     ```
 4. **Install Dependencies** (Make sure you have Node.js and npm installed):
     ```bash
