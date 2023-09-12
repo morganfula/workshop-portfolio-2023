@@ -30,7 +30,7 @@ This repository contains the base for a simple yet effective portfolio website. 
     ```bash
     cd workshop-portofolio-2023
     ```
-4. **Install Dependencies** (Make sure you have Node.js and npm installed):
+4. **Install Dependencies** (Make sure you have Node.js and npm installed or use LiveServer inside VS Code):
     ```bash
     npm install
     ```
